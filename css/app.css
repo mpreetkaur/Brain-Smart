@@ -1,0 +1,178 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg');
+    /* Background pattern from Subtle Patterns */
+    font-family: 'Coda', cursive;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: black;
+    font-size: 40px;
+}
+
+/*
+ * Styles for the deck of cards
+ */
+
+.deck {
+    width: 660px;
+    min-height: 680px;
+    background: linear-gradient(160deg, #02ccba 0%, #aa7ecd 100%);
+    padding: 32px;
+    border-radius: 10px;
+    box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 3em;
+}
+
+.deck .card {
+    height: 125px;
+    width: 125px;
+    background: #2e3d49;
+    font-size: 0;
+    color: #ffffff;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 2px 20px 0 rgba(46, 61, 73, 0.5);
+}
+
+.deck .card.open {
+    transform: rotateY(180deg);
+    transition: width 2s, height 2s, transform 0.8s;
+    background: #02b3e4;
+    cursor: default;
+}
+
+.deck .card.show {
+    font-size: 33px;
+}
+
+.deck .card.match {
+    cursor: default;
+    background: #02ccba;
+    font-size: 33px;
+}
+
+/*
+ * Styles for the Score Panel
+ */
+
+.score-panel {
+    text-align: left;
+    width: 345px;
+    margin-bottom: 10px;
+    color: black;
+    font-size: 20px
+}
+
+.score-panel .stars {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    margin: 0 5px 0 0;
+    color: black;
+}
+
+.score-panel .stars li {
+    list-style: none;
+    display: inline-block;
+    color: black;
+}
+
+.score-panel .restart {
+    float: right;
+    cursor: pointer;
+    color: black;
+    font-size: 15px;
+}
+
+/*styles to restart*/
+.restart {
+    border: 2px solid #2e3d4980;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+/*animations when cards do not match*/
+.nomatch {
+    animation-name: notmatched;
+    animation-duration: 1s;
+    position: relative;
+}
+
+@keyframes notmatched {
+    100% {
+        background: red;
+    }
+}
+
+/*animations when cards match*/
+.match {
+    animation-name: matched;
+    animation-duration: 500ms;
+    position: relative;
+}
+
+@keyframes matched {
+    100% {
+        background: #079084;
+    }
+}
+
+
+@media screen and (max-width: 450px) {
+    .deck {
+        width: 90%;
+        min-height: 400px;
+    }
+    .deck .card {
+        width: 25%;
+        height: 63px;
+        margin-right: 5px;
+    }
+}
+
+@media screen and (min-width: 451px) and (max-width: 700px) {
+    .deck {
+        width: 90%;
+        height: 80vh;
+        min-height: 80vh;
+    }
+    .deck .card {
+        width: 20%;
+        height: 20%;
+        margin: 5px;
+    }
+}
