@@ -26,7 +26,10 @@ When all cards get matched, a pop-up will get displayed at centre of screen user
 * Matched cards will remain open and unmatched will turn-over back.
 * Player needs to again choose two cards to continue game.
 * When all cards get matched click "Ok" on displaying alert at play again.
-* To paly the game, ![click here](https://mpreetkaur.github.io/My-Memory-Game)
+### Planned changes
+A timer will be added. Star ratings will also be added based on the number of moves and time-taken to play the game.
+### Author
+Manpreet Kaur.
 
 
 
