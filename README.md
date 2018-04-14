@@ -18,6 +18,9 @@ Unikely, if cards do not **matched**, they will change their color to red and ge
 Each time when pair of cards is clicked the number of __moves__  at the top of the grid will increase by one.
 <p align="center"><img src="images/moves.gif" width="400px" height="450px"></p>
 
+### Re-start the game
+When all cards get matched, a pop-up will get displayed at centre of screen user needs to click __OK__  and then re-start button to play the game again.
+
 
 
 
