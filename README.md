@@ -26,7 +26,7 @@ When all cards get matched, a pop-up will get displayed at centre of screen user
 * Matched cards will remain open and unmatched will turn-over back.
 * Player needs to again choose two cards to continue game.
 * When all cards get matched click "Ok" on displaying alert at play again.
-* To paly the game, ![click here](https://github.com/mpreetkaur/My-Memory-Game)
+* To paly the game, ![click here](https://mpreetkaurgithub.io/My-Memory-Game)
 
 
 
