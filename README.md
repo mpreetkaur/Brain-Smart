@@ -21,6 +21,10 @@ Each time when pair of cards is clicked the number of __moves__  at the top of t
 When all cards get matched, a pop-up will get displayed at centre of screen user needs to click __OK__  and then __re-start__ button at top of the grid of cards to play the game again.
 <p align="center"><img src="images/restart.gif" width="400px" height="450px"></p>
 
+### How to play the game
+* 
+
+
 
 
 
