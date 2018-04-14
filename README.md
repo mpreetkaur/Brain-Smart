@@ -6,7 +6,9 @@ When the game is loaded it will display 16 plane cards. You need to click on two
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 <p align="center"><img src="images/memoryGame.png" width="400px" height="450px"></p>
+
 ## Animated matched cards
 When clicked two cards would match, they will change their color and remain open.
-<p align="center"><img src="images/memoryGame.png" width="400px" height="450px"></p>
+
+<p align="center"><img src="images/match.gif" width="400px" height="450px"></p>
 
