@@ -15,8 +15,10 @@ Unikely, if cards do not **matched**, they will change their color to red and ge
 <p align="center"><img src="images/unmatch.gif" width="400px" height="450px"></p>
 
 ### Increasing moves
-Each time when pair of cards is clicked the number of __moves__ will increase by one.
+Each time when pair of cards is clicked the number of __moves__  at the top of the grid will increase by one.
 <p align="center"><img src="images/moves.gif" width="400px" height="450px"></p>
+
+
 
 
 
