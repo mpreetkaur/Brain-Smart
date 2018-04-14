@@ -7,7 +7,12 @@ When the game is loaded it will display 16 plane cards. You need to click on two
 
 <p align="center"><img src="images/memoryGame.png" width="400px" height="450px"></p>
 
-## Animated matched cards
-When clicked two cards would match, they will change their color and remain open.
+## Animated matched  and unmatched cards
+When clicked two cards would match, they will change their color first to dark green and then light green and remain open later.
 <p align="center"><img src="images/match.gif" width="400px" height="450px"></p>
+
+Likely, if cards do not match they will change their color to red and get closed after a second.
+<p align="center"><img src="images/unmatch.gif" width="400px" height="450px"></p>
+
+
 
