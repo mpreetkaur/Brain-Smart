@@ -13,6 +13,7 @@ When clicked cards **Unmatched**,their color will change to dark green first and
 
 Unikely, if cards do not **matched**, they will change their color to red and get closed after a second.
 <p align="center"><img src="images/unmatch.gif" width="400px" height="450px"></p>
+
 ### Increasing moves
 Each time when pair of cards is clicked the number of __moves__ will increase by one.
 
