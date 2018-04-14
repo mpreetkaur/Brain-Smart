@@ -22,7 +22,11 @@ When all cards get matched, a pop-up will get displayed at centre of screen user
 <p align="center"><img src="images/restart.gif" width="400px" height="450px"></p>
 
 ### How to play the game
-* 
+* Player needs to choose two cards at a time.
+* Matched cards will remain open and unmatched will turn-over back.
+* Player needs to again choose two cards to continue game.
+* When all cards get matched click "Ok" on displaying alert at play again.
+* To paly the game, ![click here](https://github.com/mpreetkaur/My-Memory-Game)
 
 
 
