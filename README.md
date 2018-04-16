@@ -24,7 +24,7 @@ When all cards get matched, a pop-up will get displayed at centre of screen user
 ### How to play the game
 1. Player needs to choose two cards at a time.
 2. Matched cards will remain open and unmatched will turn-over back.
-3. Player needs to again choose two cards to continue game.
+3. Player needs to choose two cards again to continue game.
 4. When all cards get matched click "Ok" on displaying alert at play again.
 ### Planned changes
 * A *timer* will be added.
