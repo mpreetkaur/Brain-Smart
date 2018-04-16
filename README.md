@@ -18,13 +18,13 @@ If cards do not **match**, their color will change to red and cards get closed a
 Each time when pair of cards is clicked the number of __moves__  at the top of the grid will increase by one.
 
 ### Re-start the game
-When all cards get matched, a pop-up will be displayed at the centre of screen user needs to click __OK__  and then __re-start__ button at top of the grid of cards to play the game again.
+When all cards get matched, a pop-up will be displayed at the centre of screen user needs to click __OK__  and then __re-start__ button at top of the grid of cards to play the game again. This will shuffle the cards and set number of moves to zero.
 <p align="center"><img src="images/restart.gif" width="400px" height="450px"></p>
 
 ### How to play the game
-1. Player needs to choose two cards at a time.
+1. Choose two cards at a time.
 2. Matched cards will remain open and unmatched will turn-over back.
-3. Player needs to choose two cards again to continue game.
+3. Choose two cards again to continue game.
 4. When all cards get matched click "Ok" on displaying alert and click __re-start__ button to play again.
 
  *__[Click here!](https://mpreetkaur.github.io/Brain-Smart/)__ to play the game.*
