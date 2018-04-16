@@ -3,7 +3,7 @@ Brain-Smart is a game that helps in imroving memory and is a great exercise for 
 ## Getting Started
 When the game is loaded it will display 16 plane cards. You need to click on two cards, one after the other. If the cards match they will remain open and if don't the cards will be closed immediately.
 
-[![forthebadge]
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 <p align="center"><img src="images/memoryGame.png" width="400px" height="450px"></p>
 
