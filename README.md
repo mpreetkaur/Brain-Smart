@@ -22,10 +22,10 @@ When all cards get matched, a pop-up will get displayed at centre of screen user
 <p align="center"><img src="images/restart.gif" width="400px" height="450px"></p>
 
 ### How to play the game
-* Player needs to choose two cards at a time.
-* Matched cards will remain open and unmatched will turn-over back.
-* Player needs to again choose two cards to continue game.
-* When all cards get matched click "Ok" on displaying alert at play again.
+1. Player needs to choose two cards at a time.
+2. Matched cards will remain open and unmatched will turn-over back.
+3. Player needs to again choose two cards to continue game.
+4. When all cards get matched click "Ok" on displaying alert at play again.
 ### Planned changes
 A timer will be added. Star ratings will also be added based on the number of moves and time-taken to play the game.
 ### Author
