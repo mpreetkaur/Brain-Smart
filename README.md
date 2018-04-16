@@ -27,7 +27,8 @@ When all cards get matched, a pop-up will get displayed at centre of screen user
 3. Player needs to again choose two cards to continue game.
 4. When all cards get matched click "Ok" on displaying alert at play again.
 ### Planned changes
-A timer will be added. Star ratings will also be added based on the number of moves and time-taken to play the game.
+* A *timer* will be added.
+* *Star ratings* will also be added that will award the player with number of stars out of __three stars__ based on the number of moves and time-taken to play the game.
 ### Author
 Manpreet Kaur(159325).
 
