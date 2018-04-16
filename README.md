@@ -1,7 +1,7 @@
 # Brain-Smart
 Brain-Smart is a game that helps in improving memory and is a great exercise for brain. There are 16 cards with 8 icons(1 icon on two cards) which are hidden and you need to match them!
 ## Getting Started
-When the game is loaded it will display 16 cards with hidden icons. User needs to click on two cards, one after the other to display icon. If the cards match they will remain open and if don't the cards will be closed immediately. User needs to select another pair of cards to proceed the game.
+When the game is loaded it will display 16 cards with hidden icons. User needs to click on two cards, one after the other to display icon. If the icon on clicked cards match they will remain open and if don't the cards will be closed immediately. User needs to select another pair of cards to proceed the game.
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
@@ -11,7 +11,7 @@ When the game is loaded it will display 16 cards with hidden icons. User needs t
 When clicked cards **matched**, their color will change to dark green first and then to light green and cards will remain open later.
 <p align="center"><img src="images/match.gif" width="400px" height="450px"></p>
 
-If cards do not **match**, their color will change to red and get closed after a second.
+If cards do not **match**, their color will change to red and cards get closed after a second.
 <p align="center"><img src="images/unmatch.gif" width="400px" height="450px"></p>
 
 ### Increasing moves
