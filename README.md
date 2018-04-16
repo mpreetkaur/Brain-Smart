@@ -27,7 +27,7 @@ When all cards get matched, a pop-up will get displayed at centre of screen user
 3. Player needs to choose two cards again to continue game.
 4. When all cards get matched click "Ok" on displaying alert at play again.
 
-* __[Click here!](https://mpreetkaur.github.io/Brain-Smart/)__ to play the game.*
+ *__[Click here!](https://mpreetkaur.github.io/Brain-Smart/)__ to play the game.*
 ### Planned changes
 * A *timer* will be added.
 * *Star ratings* will also be added that will award the player with number of stars out of __three stars__ based on the number of moves and time-taken to play the game.
