@@ -8,10 +8,10 @@ When the game is loaded it will display 16 plane cards. You need to click on two
 <p align="center"><img src="images/memoryGame.png" width="400px" height="450px"></p>
 
 ### Animated matched  and unmatched cards
-When clicked cards **matched**,their color will change to dark green first and then to light green and cards will remain open later.
+When clicked cards **matched**, their color will change to dark green first and then to light green and cards will remain open later.
 <p align="center"><img src="images/match.gif" width="400px" height="450px"></p>
 
-Unikely, if cards do not **match**, they will change their color to red and get closed after a second.
+Unlikely, if cards do not **match**, they will change their color to red and get closed after a second.
 <p align="center"><img src="images/unmatch.gif" width="400px" height="450px"></p>
 
 ### Increasing moves
