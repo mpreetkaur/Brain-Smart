@@ -8,7 +8,7 @@ When the game is loaded it will display 16 cards with hidden icons. User needs t
 <p align="center"><img src="images/memoryGame.png" width="400px" height="450px"></p>
 
 ### Animated matched  and unmatched cards
-When clicked cards **matched**, their color will change to dark green first and then to light green and cards will remain open later.
+If clicked cards **match**, their color will change to dark green first and then to light green and cards will remain open later.
 <p align="center"><img src="images/match.gif" width="400px" height="450px"></p>
 
 If cards do not **match**, their color will change to red and cards get closed after a second.
