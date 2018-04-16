@@ -25,7 +25,7 @@ When all cards get matched, a pop-up will get displayed at centre of screen user
 1. Player needs to choose two cards at a time.
 2. Matched cards will remain open and unmatched will turn-over back.
 3. Player needs to choose two cards again to continue game.
-4. When all cards get matched click "Ok" on displaying alert at play again.
+4. When all cards get matched click "Ok" on displaying alert and click __re-start__ button to play again.
 
  *__[Click here!](https://mpreetkaur.github.io/Brain-Smart/)__ to play the game.*
 ### Planned changes
