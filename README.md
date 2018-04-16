@@ -1,7 +1,7 @@
 # Brain-Smart
 Brain-Smart is a game that helps in imroving memory and is a great exercise for brain. There are 16 cards with 8 icons(1 icon on two cards) which are hidden and you need to match them!
 ## Getting Started
-When the game is loaded it will display 16 plane cards. You need to click on two cards, one after the other. If the cards match they will remain open and if don't the cards will be closed immediately.
+When the game is loaded it will display 16 plane cards. User needs to click on two cards, one after the other. If the cards match they will remain open and if don't the cards will be closed immediately. User needs to select another pair of cards to proceed the game.
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
@@ -29,7 +29,7 @@ When all cards get matched, a pop-up will get displayed at centre of screen user
 ### Planned changes
 A timer will be added. Star ratings will also be added based on the number of moves and time-taken to play the game.
 ### Author
-Manpreet Kaur.
+Manpreet Kaur(159325).
 
 
 
