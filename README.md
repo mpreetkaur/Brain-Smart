@@ -33,7 +33,7 @@ When all cards get matched, a pop-up will be displayed at the centre of screen. 
 * A *timer* will be added.
 * *Star ratings* will also be added that will award the player with number of stars out of __three stars__ based on the number of moves and time-taken to play the game.
 ### Author
-Manpreet Kaur(159325).
+Manpreet Kaur.
 
 
 
